@@ -1,0 +1,1882 @@
+fileFormatVersion: 2
+guid: a89263393efc322479c8dda7b101da02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3187875618433125209
+    second: Dinosaur_0
+  - first:
+      213: 3620823182582022009
+    second: Dinosaur_1
+  - first:
+      213: 226405702702965685
+    second: Dinosaur_2
+  - first:
+      213: 620430854991091990
+    second: Dinosaur_3
+  - first:
+      213: -4999739986058629477
+    second: Dinosaur_4
+  - first:
+      213: -9138502691153655901
+    second: Dinosaur_5
+  - first:
+      213: -2990145775076409375
+    second: Dinosaur_6
+  - first:
+      213: 4998070136450819468
+    second: Dinosaur_7
+  - first:
+      213: -3396752871990354128
+    second: Dinosaur_8
+  - first:
+      213: -4516506554551477953
+    second: Dinosaur_9
+  - first:
+      213: -1732313333494859201
+    second: Dinosaur_10
+  - first:
+      213: 5052270489657315355
+    second: Dinosaur_11
+  - first:
+      213: 3797980832501754369
+    second: Dinosaur_12
+  - first:
+      213: 3030682160685567966
+    second: Dinosaur_13
+  - first:
+      213: -5611916769669493220
+    second: Dinosaur_14
+  - first:
+      213: 8344927931616349303
+    second: Dinosaur_15
+  - first:
+      213: -3253966169248377900
+    second: Dinosaur_16
+  - first:
+      213: -5360705309628803727
+    second: Dinosaur_17
+  - first:
+      213: -2366965908618302706
+    second: Dinosaur_18
+  - first:
+      213: 7030752208643191894
+    second: Dinosaur_19
+  - first:
+      213: -6682273519647878516
+    second: Dinosaur_20
+  - first:
+      213: -6512954473236514907
+    second: Dinosaur_21
+  - first:
+      213: -7239542237781364283
+    second: Dinosaur_22
+  - first:
+      213: -7391545678070030042
+    second: Dinosaur_23
+  - first:
+      213: 4441981311812053898
+    second: Dinosaur_24
+  - first:
+      213: -2188648878298748165
+    second: Dinosaur_25
+  - first:
+      213: -5928413619886112490
+    second: Dinosaur_26
+  - first:
+      213: 8440465313791287257
+    second: Dinosaur_27
+  - first:
+      213: 200155974142314741
+    second: Dinosaur_28
+  - first:
+      213: -8532628820864362209
+    second: Dinosaur_29
+  - first:
+      213: -3443877044385086301
+    second: Dinosaur_30
+  - first:
+      213: 6236940311910462534
+    second: Dinosaur_31
+  - first:
+      213: 329472303053984781
+    second: Dinosaur_32
+  - first:
+      213: 1768900479183651610
+    second: Dinosaur_33
+  - first:
+      213: -1149924241358314372
+    second: Dinosaur_34
+  - first:
+      213: -1201881308511749806
+    second: Dinosaur_35
+  - first:
+      213: -2792894170481176800
+    second: Dinosaur_36
+  - first:
+      213: 4930104555124772793
+    second: Dinosaur_37
+  - first:
+      213: 8392327252523136391
+    second: Dinosaur_38
+  - first:
+      213: 4747413756252865894
+    second: Dinosaur_39
+  - first:
+      213: -3666059801857987814
+    second: Dinosaur_40
+  - first:
+      213: 5644555417353003702
+    second: Dinosaur_41
+  - first:
+      213: 3206047753555664491
+    second: Dinosaur_42
+  - first:
+      213: -4590213615698856605
+    second: Dinosaur_43
+  - first:
+      213: 2127407271675903990
+    second: Dinosaur_44
+  - first:
+      213: 1952645477150812330
+    second: Dinosaur_45
+  - first:
+      213: -4719553269931554320
+    second: Dinosaur_46
+  - first:
+      213: -6817245621826985217
+    second: Dinosaur_47
+  - first:
+      213: 6822123989190471059
+    second: Dinosaur_48
+  - first:
+      213: 6091573496649948957
+    second: Dinosaur_49
+  - first:
+      213: -3827056890000563597
+    second: Dinosaur_50
+  - first:
+      213: 8284461179924897610
+    second: Dinosaur_51
+  - first:
+      213: 3263980027817858395
+    second: Dinosaur_52
+  - first:
+      213: -7557096587831078089
+    second: Dinosaur_53
+  - first:
+      213: -8336034851784820271
+    second: Dinosaur_54
+  - first:
+      213: -2449699796200348692
+    second: Dinosaur_55
+  - first:
+      213: -6598676221823745813
+    second: Dinosaur_56
+  - first:
+      213: -8776092108942999330
+    second: Dinosaur_57
+  - first:
+      213: 7361836046189325441
+    second: Dinosaur_58
+  - first:
+      213: 7030469869743613218
+    second: Dinosaur_59
+  - first:
+      213: 7283767500124670817
+    second: Dinosaur_60
+  - first:
+      213: -2320992319452478347
+    second: Dinosaur_61
+  - first:
+      213: -2847114861351022049
+    second: Dinosaur_62
+  - first:
+      213: -6214542872724768364
+    second: Dinosaur_63
+  - first:
+      213: 453481299393189133
+    second: Dinosaur_64
+  - first:
+      213: 4476706320237001626
+    second: Dinosaur_65
+  - first:
+      213: -498427799008001542
+    second: Dinosaur_66
+  - first:
+      213: 2090679981443378793
+    second: Dinosaur_67
+  - first:
+      213: 4104538993563153322
+    second: Dinosaur_68
+  - first:
+      213: 4319626032448418116
+    second: Dinosaur_69
+  - first:
+      213: 7664659101543325761
+    second: Dinosaur_70
+  - first:
+      213: -2169395484741930631
+    second: Dinosaur_71
+  - first:
+      213: -1928602288100218454
+    second: Dinosaur_72
+  - first:
+      213: 1826791645116547454
+    second: Dinosaur_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dinosaur_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 661
+        width: 223
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a43a2fd30462c3d0800000000000000
+      internalID: -3187875618433125209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 737
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ffc48208fbf3230800000000000000
+      internalID: 3620823182582022009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 710
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3abbc79ca542300800000000000000
+      internalID: 226405702702965685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 706
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199f6f43963c9800800000000000000
+      internalID: 620430854991091990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_4
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 713
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ea8a1f8fa5d9ab0800000000000000
+      internalID: -4999739986058629477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_5
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 713
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c5d268348d2180800000000000000
+      internalID: -9138502691153655901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 669
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef7fe1924ed086d0800000000000000
+      internalID: -2990145775076409375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 714
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85a3a5ee46bc5540800000000000000
+      internalID: 4998070136450819468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 670
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f1a3b724f4cd0d0800000000000000
+      internalID: -3396752871990354128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 636
+        width: 156
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f395c36d7352251c0800000000000000
+      internalID: -4516506554551477953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 631
+        width: 159
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3abd5d833695f7e0800000000000000
+      internalID: -1732313333494859201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 621
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1096350e354d1640800000000000000
+      internalID: 5052270489657315355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 623
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a6201d17325b430800000000000000
+      internalID: 3797980832501754369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 567
+        width: 28
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfc6ce2e552f0a20800000000000000
+      internalID: 3030682160685567966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 596
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ecac26e677e12b0800000000000000
+      internalID: -5611916769669493220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_15
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 556
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c4a309db32fc370800000000000000
+      internalID: 8344927931616349303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 587
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3dfc2620797d2d0800000000000000
+      internalID: -3253966169248377900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_17
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 600
+        width: 89
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17556025ce2fa95b0800000000000000
+      internalID: -5360705309628803727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_18
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 616
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba85dfb09d62fd0800000000000000
+      internalID: -2366965908618302706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 580
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65478fb12ef329160800000000000000
+      internalID: 7030752208643191894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 581
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82936953abc343a0800000000000000
+      internalID: -6682273519647878516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 438
+        width: 200
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a73278e9665d95a0800000000000000
+      internalID: -6512954473236514907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 436
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1fa9401baf78b90800000000000000
+      internalID: -7239542237781364283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 444
+        width: 224
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ef8d2e54fb6990800000000000000
+      internalID: -7391545678070030042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_24
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 471
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b2b7de77615ad30800000000000000
+      internalID: 4441981311812053898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_25
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 452
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa22fee07b50a1e0800000000000000
+      internalID: -2188648878298748165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 397
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c919093b0abda0800000000000000
+      internalID: -5928413619886112490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 393
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df198fbb7e822570800000000000000
+      internalID: 8440465313791287257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 416
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8cc6a4cc817c200800000000000000
+      internalID: 200155974142314741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_29
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 390
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f199e149b43069980800000000000000
+      internalID: -8532628820864362209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_30
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 388
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a40e471314e430d0800000000000000
+      internalID: -3443877044385086301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 367
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644bcb04b201e8650800000000000000
+      internalID: 6236940311910462534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 367
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04dcd26055829400800000000000000
+      internalID: 329472303053984781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 341
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1382c02d956c8810800000000000000
+      internalID: 1768900479183651610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 344
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c742a3bbef5aa00f0800000000000000
+      internalID: -1149924241358314372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_35
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 375
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b9f7515f025fe0800000000000000
+      internalID: -1201881308511749806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_36
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 376
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc531ac85ad39d0800000000000000
+      internalID: -2792894170481176800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 351
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf4fb9d8ff3b6440800000000000000
+      internalID: 4930104555124772793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 354
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b875fb29877470800000000000000
+      internalID: 8392327252523136391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 356
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665414f88a332e140800000000000000
+      internalID: 4747413756252865894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 357
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6ae8a80a8f1dc0800000000000000
+      internalID: -3666059801857987814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_41
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 341
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b22556fe3d755e40800000000000000
+      internalID: 5644555417353003702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_42
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 342
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6edf9b027b2e7c20800000000000000
+      internalID: 3206047753555664491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_43
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 327
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365bb1959094c40c0800000000000000
+      internalID: -4590213615698856605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_44
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 329
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff33d064a1168d10800000000000000
+      internalID: 2127407271675903990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_45
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 328
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e8d547b0391b10800000000000000
+      internalID: 1952645477150812330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 329
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f942376e47c08eb0800000000000000
+      internalID: -4719553269931554320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 161
+        width: 187
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff26a6ce9374461a0800000000000000
+      internalID: -6817245621826985217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 243
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d6e5d7f9d0dae50800000000000000
+      internalID: 6822123989190471059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 202
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f110712dd998450800000000000000
+      internalID: 6091573496649948957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_50
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 170
+        width: 141
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3722e40090093eac0800000000000000
+      internalID: -3827056890000563597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_51
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 178
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fdfe8dc8158f270800000000000000
+      internalID: 8284461179924897610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_52
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 190
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b559d00ca8cfb4d20800000000000000
+      internalID: 3263980027817858395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_53
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 165
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733130d41bccf1790800000000000000
+      internalID: -7557096587831078089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f610f774705c80800000000000000
+      internalID: -8336034851784820271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_55
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 153
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3a121b30be00ed0800000000000000
+      internalID: -2449699796200348692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0016200facc64a0800000000000000
+      internalID: -6598676221823745813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 94
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0085289be053680800000000000000
+      internalID: -8776092108942999330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 125
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ce7cb11ee7a2660800000000000000
+      internalID: 7361836046189325441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_59
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 127
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a726f81f319160800000000000000
+      internalID: 7030469869743613218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_60
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 135
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b477743f3251560800000000000000
+      internalID: 7283767500124670817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_61
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 133
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57400a858cd2acfd0800000000000000
+      internalID: -2320992319452478347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_62
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 92
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12df664e140d78d0800000000000000
+      internalID: -2847114861351022049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_63
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 91
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499fdcdee2281c9a0800000000000000
+      internalID: -6214542872724768364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_64
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 113
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051d92d6d61b4600800000000000000
+      internalID: 453481299393189133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_65
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 113
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bf87dfda4702e30800000000000000
+      internalID: 4476706320237001626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_66
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 98
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1c2fdbe8a3519f0800000000000000
+      internalID: -498427799008001542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_67
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 100
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ee3f0cd56930d10800000000000000
+      internalID: 2090679981443378793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33216c77046f830800000000000000
+      internalID: 4104538993563153322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_69
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 57
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4413e9a7df462fb30800000000000000
+      internalID: 4319626032448418116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_70
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 73
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14064fff7d65e5a60800000000000000
+      internalID: 7664659101543325761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_71
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 73
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971fe92fc42c4e1e0800000000000000
+      internalID: -2169395484741930631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_72
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 38
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9e7c8ef6a3c35e0800000000000000
+      internalID: -1928602288100218454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaur_73
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 39
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c2dd82511a5910800000000000000
+      internalID: 1826791645116547454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

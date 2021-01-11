@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 63df44e7ea1face4691da0d826db4408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9215011344689508774
+    second: aniCuoiThu3_0
+  - first:
+      213: -8291368201728684367
+    second: aniCuoiThu3_1
+  - first:
+      213: -402291392990187048
+    second: aniCuoiThu3_2
+  - first:
+      213: 5738918346254569627
+    second: aniCuoiThu3_3
+  - first:
+      213: -1766486149735883287
+    second: aniCuoiThu3_4
+  - first:
+      213: 1715147854700062957
+    second: aniCuoiThu3_5
+  - first:
+      213: 7986219788627614400
+    second: aniCuoiThu3_6
+  - first:
+      213: 3635227977153481129
+    second: aniCuoiThu3_7
+  - first:
+      213: -2116515164392554119
+    second: aniCuoiThu3_8
+  - first:
+      213: 7643573615187096882
+    second: aniCuoiThu3_9
+  - first:
+      213: 8141171484101507908
+    second: aniCuoiThu3_10
+  - first:
+      213: -7588013366589452238
+    second: aniCuoiThu3_11
+  - first:
+      213: -3702458927049682247
+    second: aniCuoiThu3_12
+  - first:
+      213: -6186738209979949620
+    second: aniCuoiThu3_13
+  - first:
+      213: -4543720948936362910
+    second: aniCuoiThu3_14
+  - first:
+      213: 6561459836301616935
+    second: aniCuoiThu3_15
+  - first:
+      213: 4583460797573109123
+    second: aniCuoiThu3_16
+  - first:
+      213: -3009266924054393249
+    second: aniCuoiThu3_17
+  - first:
+      213: 7864673516005934334
+    second: aniCuoiThu3_18
+  - first:
+      213: 7827269691940247352
+    second: aniCuoiThu3_19
+  - first:
+      213: -173288544575941855
+    second: aniCuoiThu3_20
+  - first:
+      213: -7058744041037209998
+    second: aniCuoiThu3_21
+  - first:
+      213: 6167018252936783548
+    second: aniCuoiThu3_22
+  - first:
+      213: -4566262743169052338
+    second: aniCuoiThu3_23
+  - first:
+      213: -5982771198549182427
+    second: aniCuoiThu3_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aniCuoiThu3_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 979
+        width: 232
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1b969aefb42ef70800000000000000
+      internalID: 9215011344689508774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 979
+        width: 237
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0ef1dc842fec80800000000000000
+      internalID: -8291368201728684367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 979
+        width: 237
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d17f980c16ca6af0800000000000000
+      internalID: -402291392990187048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 973
+        width: 232
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d97f64dbb4af40800000000000000
+      internalID: 5738918346254569627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_4
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1104
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed5850c43e2c77e0800000000000000
+      internalID: -1766486149735883287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_5
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 973
+        width: 245
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8aba8f2ed6dc710800000000000000
+      internalID: 1715147854700062957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_6
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 976
+        width: 242
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca185fb590c4de60800000000000000
+      internalID: 7986219788627614400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_7
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 980
+        width: 243
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a98bcfb59ce27230800000000000000
+      internalID: 3635227977153481129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_8
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 970
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97187a8fba0a0a2e0800000000000000
+      internalID: -2116515164392554119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 970
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23576c3a4bd631a60800000000000000
+      internalID: 7643573615187096882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 672
+        width: 239
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bf86db4504bf070800000000000000
+      internalID: 8141171484101507908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 676
+        width: 244
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230158dcb06f1b690800000000000000
+      internalID: -7588013366589452238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 677
+        width: 244
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2dab9e8393e9cc0800000000000000
+      internalID: -3702458927049682247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_13
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 681
+        width: 235
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd1fc3706a442aa0800000000000000
+      internalID: -6186738209979949620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_14
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 687
+        width: 238
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b520eed571f0c0800000000000000
+      internalID: -4543720948936362910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 345
+        width: 241
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72720cef4fcfe0b50800000000000000
+      internalID: 6561459836301616935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 357
+        width: 240
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3851649af49bb9f30800000000000000
+      internalID: 4583460797573109123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_17
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 440
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ec7652dafec36d0800000000000000
+      internalID: -3009266924054393249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 350
+        width: 235
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c4fbd4eee42d60800000000000000
+      internalID: 7864673516005934334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 342
+        width: 241
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837974d605c00ac60800000000000000
+      internalID: 7827269691940247352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_20
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 356
+        width: 226
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12318e0acfa589df0800000000000000
+      internalID: -173288544575941855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_21
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 343
+        width: 232
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e529981bd4a0e90800000000000000
+      internalID: -7058744041037209998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_22
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 327
+        width: 234
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a5a14d66a59550800000000000000
+      internalID: 6167018252936783548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aniCuoiThu3_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 351
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41de4a6a3061a0c0800000000000000
+      internalID: -4566262743169052338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
